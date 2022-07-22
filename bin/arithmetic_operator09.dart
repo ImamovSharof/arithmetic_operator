@@ -10,12 +10,12 @@ Find the expression value assign to 'answer'. a+b - cd .
 */
 void main() {
   //write your code here
-  int a, b, c, javob, d, z;
+  int a, b, c, answer, d, z;
   a=8;
   b=3;
   c=2;
   d=4;
   z=a+b-c*d;
-  javob=z;
-  print(javob);  
+  answer=z;
+  print(answer);  
 }
