@@ -9,11 +9,11 @@ Find the expression value assign to 'answer'.  a - b + c
 */
 void main() {
   //write your code here
-  int a, b, c, javob, z;
+  int a, b, c, answer, z;
   a=12;
   b=4;
   c=1;
   z=a+b+c;
-  javob=z;
-  print(javob);
+  answer=z;
+  print(answer);
 }
