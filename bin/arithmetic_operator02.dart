@@ -8,9 +8,10 @@ Find the sum of a and b than assign to 'answer'
 */
 void main() {
   //write your code here
-  int a, b;
+  int a, b, answer, z;
   a=3;
   b=4;
-  
-  print(a+b );
+  z=a+b;
+  answer=z;
+  print(answer );
 }
