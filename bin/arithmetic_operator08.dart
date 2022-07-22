@@ -9,4 +9,11 @@ Find the expression value assign to 'answer'. ab/c
 */
 void main() {
   //write your code here
+  double a, b, c, javob, z;
+  a=3;
+  b=4;
+  c=2;
+  z=a*b/c;
+  javob=z;
+  print(javob);
 }
