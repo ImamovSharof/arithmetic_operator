@@ -10,4 +10,12 @@ Find the expression value assign to 'answer'.  a*b / c+d .
 */
 void main() {
   //write your code here
+    double a, b, c, answer, d ;
+  a=8;
+  b=5;
+  c=2;
+  d=6;
+  
+  
+  print(a*b/c+d); 
 }
