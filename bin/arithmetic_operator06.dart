@@ -9,11 +9,11 @@ Find the sum of a, b and c then assign to "answer".
 */
 void main() {
   //write your code here
-  int a, b, c, javob, z;
+  int a, b, c, answer, z;
   a=7;
   b=3;
   c=5;
   z=a+b+c;
-  javob=z;
-  print(javob);
+  answer=z;
+  print(answer);
 }
